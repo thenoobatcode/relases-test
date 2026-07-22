@@ -1,5 +1,5 @@
-# relases-test
-relase test to learn about relases, and use thm in future repos
+# releases-test
+release test to learn about releases, and use them in future repos
 
 #
 ### nothing but thinking what to do
