@@ -1,17 +1,22 @@
 // when he is coming, he runs //
 
 function run(he)
-  print(he .. " ITS COMING")
+  print(he .. " *runs*")
 end
 
 function scream(type) // die, normal
   if type == "die" then
-    print("AAAAAAAHHHHHHHGHHHRHhahhrrr----")
+    return "AAAAAAAHHHHHHHGHHHRHhahhrrr----"
   elseif type == "normal" then
-    print("AAAAAAAAAHHHHHHHHHH!")
+    return "AAAAAAHHHHHHHHHHHHHH!!!!!"
   end
 end
 
-run("Miguel")
-scream("normal")
-print("MIGUEL ITS ATTACKING ME!")
+function narrator.kill(killer, with, victim)
+  print(killer .. "killed" .. victim .. "with" .. with)
+end
+
+run("Miguel:")
+print("wacho: "..scream("normal"))
+print("wacho: MIGUEL ITS ATTACKING ME!")
+print("milo: RUN!!!, MIGUEL CAME BACK! ".. run("milo"))
