@@ -13,5 +13,5 @@ function scream(type) // die, normal
 end
 
 run("Miguel")
-scream(normal)
+scream("normal")
 print("MIGUEL ITS ATTACKING ME!")
