@@ -1,7 +1,7 @@
 // when he is coming, he runs //
 
 function run(he)
-  print(he .. "ITS COMING")
+  print(he .. "ITS CUMMING")
 end
 
 function scream(type) // die, normal
