@@ -1,3 +1,4 @@
+[español](./README-es.md)
 # releases-test
 release test to learn about releases, and use them in future repos
 
