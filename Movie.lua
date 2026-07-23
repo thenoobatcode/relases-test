@@ -52,3 +52,4 @@ print("Wacho: --miguel.. its over--")
 print("Wacho: (* Fires gun *)")
 narrator.kill("Wacho","a Glock-16","Miguel")
 print("Wacho: -its over. miguel-")
+--CODE, HISTORY AND COMMENTS ARE COMEDIC--
