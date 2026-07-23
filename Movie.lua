@@ -22,7 +22,10 @@ function narrator.kill(killer, with, victim)
   print("(* "..killer .. " killed " .. victim .. " with " .. with .. " *)")
 end
 
-print("Milo: Wacho.. i feel something with you")
+print("Milo: Wacho.. i love you..")
+print("Wacho: aww i love you too!")
+print("Milo: i feel something bad is going to happen..")
+print("Wacho: wha?-")
 print("Milo: " .. scream("normal"))
 print("Milo: MIGUEL ITS ATTACKING ME!")
 print("Wacho: RUN!!!, MIGUEL CAME BACK! " .. run("Wacho"))
