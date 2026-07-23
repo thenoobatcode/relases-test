@@ -22,8 +22,8 @@ function narrator.kill(killer, with, victim)
   print("(* "..killer .. " killed " .. victim .. " with " .. with .. " *)")
 end
 
-print("Milo: Wacho.. i love you..")
-print("Wacho: aww i love you too!")
+print("Milo: Wacho.. i love you..") -- milo gender female
+print("Wacho: aww i love you too!") -- wacho gender male
 print("Milo: i feel something bad is going to happen..")
 print("Wacho: wha?-")
 print("Milo: " .. scream("normal"))
