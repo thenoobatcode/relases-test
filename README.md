@@ -1,4 +1,4 @@
-[![español](https://img.shields.io/badge/idioma-español-blue)](./README-es.md)
+[![español](https://img.shields.io/badge/idioma_español-broken-red)](./README-es.md)
 # releases-test
 release test to learn about releases, and use them in future repos
 
